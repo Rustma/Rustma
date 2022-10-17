@@ -11,4 +11,8 @@
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 ![Яндекс Трекер](https://img.shields.io/badge/-ЯндексТрекер-090909?style=for-the-badge&logo=appveyor&logoColor=red)
 
-Follow me
+### Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Rustam_mavl)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk)](https://vk.com/r.u.stam)
+
+
