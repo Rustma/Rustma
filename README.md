@@ -1,4 +1,4 @@
-[![Header] (https://github.com/Rustma/Rustma/blob/main/assets/Без%20имени.png)]()
+[![Header] (https://github.com/Rustma/Rustma/blob/main/assets/Header.png)]()
 
 About me
 
