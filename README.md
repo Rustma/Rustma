@@ -4,7 +4,7 @@
 
 ## My CV 
 
-![Link to my CV](https://drive.google.com/file/d/1Xlr0HMYqcoxzHPgv0xVpwnMsgpTEyyQY/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1Xlr0HMYqcoxzHPgv0xVpwnMsgpTEyyQY/view?usp=sharing)
 
 ### Languages and Tools
 ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=appveyor)
@@ -14,6 +14,14 @@
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-090909?style=for-the-badge&logo=androidstudio)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 ![Яндекс Трекер](https://img.shields.io/badge/-ЯндексТрекер-090909?style=for-the-badge&logo=appveyor&logoColor=red)
+
+### Testing Documentation
+
+- [Checklists](https://github.com/Rustma/checklists.git)
+- [Test-Suites and Test-Cases](https://github.com/Rustma/test-cases.git)
+- [Bug-Reports](https://github.com/Rustma/bug-reports.git)
+- [SQL Queries](https://github.com/Rustma/SQL-Queries.git)
+- [Postman Collections](https://github.com/Rustma/Postman.git)
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Rustam_mavl)
