@@ -2,6 +2,10 @@
 
 ## I'm a begginer testing engineer
 
+## My CV 
+
+![Link to my CV](https://drive.google.com/file/d/1Xlr0HMYqcoxzHPgv0xVpwnMsgpTEyyQY/view?usp=sharing)
+
 ### Languages and Tools
 ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=appveyor)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
@@ -14,5 +18,8 @@
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Rustam_mavl)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=blue)](https://vk.com/r.u.stam)
+
+
+[![Rustam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rustma&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
