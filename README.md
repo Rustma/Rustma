@@ -4,7 +4,7 @@
 
 ## My CV 
 
-[Link to my CV](https://drive.google.com/file/d/1gqo1PH_O1OGPYAKfQihp0eJBDnTsVV1c/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1Rs4AXGCBkeQ29ljcq6fcn-6q0UEK_IVa/view?usp=sharing)
 
 ### Languages and Tools
 ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=appveyor)
