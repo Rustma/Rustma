@@ -7,10 +7,11 @@
 [Link to my CV](https://drive.google.com/file/d/1kp9lVrJJCTGCVE-QQjbty82XiIJ9-qOa/view?usp=sharing)
 
 ### Languages and Tools
-![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=appveyor)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
+![Qase](https://img.shields.io/badge/-Qase-090909?style=for-the-badge&logo=Quora)
 ![Charles](https://img.shields.io/badge/-Charles-090909?style=for-the-badge&logo=appveyor&logoColor=green)
 ![MYSQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=appveyor&logoColor=pink)
+![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=appveyor)
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-090909?style=for-the-badge&logo=androidstudio)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 ![Яндекс Трекер](https://img.shields.io/badge/-ЯндексТрекер-090909?style=for-the-badge&logo=appveyor&logoColor=red)
